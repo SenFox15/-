@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AirlineManagmentSystem.AddPassengers">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAQAACAAQFABAACAAAAKAME4AAAAAFAIgQBAQAA=</HashCode>
+      <FileName>AddPassengers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.Cancellation">
+    <Position X="2.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAACAAABAAIACAhAKDgAE4gAAAAHAAAQgAEAA=</HashCode>
+      <FileName>Cancellation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.FlightTable">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACEAAACAEG4CAAAAHAIAQBAEAA=</HashCode>
+      <FileName>FlightTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.Home">
+    <Position X="13.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAACAAABAAAACAAACCAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.LoginForm">
+    <Position X="22.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAADAAAACAAA4AgAAAHAAAQBAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.StartWindow">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAACACAAABAAAACAAAACAAAAIAAAAAAAAABCAAA=</HashCode>
+      <FileName>StartWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.TicketBooking">
+    <Position X="19" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAACEAABAQMSCBABQCAAE4AAAAAHgCQRgBABA=</HashCode>
+      <FileName>TicketBooking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.ViewFlights">
+    <Position X="24.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEQAAKAAABAAAACAAEACAEE4CAACAHAIAQhAEAA=</HashCode>
+      <FileName>ViewFlights.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagmentSystem.ViewPassengers">
+    <Position X="10.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAgQAECBCABAAASCAAAACAEE4ACAAAHAIAQhAAAI=</HashCode>
+      <FileName>ViewPassengers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.AddPassengers.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.Cancellation.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.FlightTable.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.Home.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.LoginForm.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.StartWindow.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.TicketBooking.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.ViewFlights.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.ViewPassengers.resources
+C:\Users\Sen\Desktop\OOP-Course-Project-main\obj\Debug\AirlineManagmentSystem.csproj.GenerateResource.cache
